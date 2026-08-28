@@ -8,7 +8,9 @@ Why? Why not, the comfier you get with HTML, CSS (and JS ig) the better, no?
 
 - Exoscale provided me with an instance and a DNS to work with.
 - Some code (mostly the JS) was taken from places like Stack Overflow
-- Bootstrap 5
+- [Bootstrap 5](https://getbootstrap.com)
+- [Markdown guide](https://www.markdownguide.org)
+- Metal Archives (for some of the songs listed in index.html)
 
 ## Other goals:
 
