@@ -30,3 +30,7 @@ This also serves to fulfill two of the 4 goals I was given.
 - Learning Markdown Formatting
 - Using VS Code to search and edit
 - Readline keybindings (i.e. on logs)
+
+### Self imposed goals
+
+- Setup a system where I can make an update to this repo and either send a command to my Exoscale instance, or have it automatically fetch the latest update/site files
