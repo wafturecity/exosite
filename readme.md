@@ -33,4 +33,4 @@ This also serves to fulfill two of the 4 goals I was given.
 
 ### Self imposed goals
 
-- [ ] Setup a system where I can make an update to this repo and either send a command to my Exoscale instance, or have it automatically fetch the latest update/site files. This wya I don't need to ssh into my instance.
+- [ ] Setup a system where I can make an update to this repo and either send a command to my Exoscale instance, or have it automatically fetch the latest update/site files. This way I don't need to ssh into my instance.
