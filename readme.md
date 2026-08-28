@@ -29,7 +29,7 @@ This also serves to fulfill two of the 4 goals I was given.
 - [ ] Learning vim
 - [X] Learning Markdown Formatting
 - [X] Using VS Code to search and edit
-- [ ] Readline keybindings (i.e. on logs)
+- [ ] Readline keybindings (i.e. on console)
 
 ### Self imposed goals
 
