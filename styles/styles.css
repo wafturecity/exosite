@@ -124,9 +124,18 @@ footer {
 .discord-logo {
     width: 4%;
     filter: brightness(0) saturate(100%) invert(99%) sepia(24%) saturate(0%) hue-rotate(65deg) brightness(112%) contrast(101%);
+    border-radius: 1%;
 }
 
 #iframe {
     width: 150px;
     overflow: hidden;
+}
+
+.discord-profile-image {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
