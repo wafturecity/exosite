@@ -24,11 +24,13 @@ body {
     color: #dee2e6;
     line-height: 30px;
     padding-bottom: 55px;
+    border-radius: 5%;
 }
 
 h1 {
     text-align: center;
     margin: 0;
+    margin-top: 50px;
     padding: 20px 0;
     line-height: 30px;
 }
@@ -76,8 +78,6 @@ footer {
     width: 89.8%;
     max-width: 1381px;
     border: 1px solid #191c1f;
-    border-top-left-radius: 75%;
-    border-top-right-radius: 75%;
 }
 
 #copyright-text {
@@ -145,5 +145,5 @@ footer {
 }
 
 .github-alert {
-    margin-bottom: 0;
+    margin-bottom: 10px;
 }
