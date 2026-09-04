@@ -34,15 +34,16 @@ This also serves to fulfill two of the 4 goals I was given.
 ### Self imposed goals
 
 - [ ] Setup a system where I can make an update to this repo and either send a command to my Exoscale instance, or have it automatically fetch the latest update/site files. This way I don't need to ssh into my instance.<br>
-^(im never gonna do ts bro)
+^(im never gonna do ts bro(actually if you could run git in a python script this would be very easy... eh too lazy to check))
 
 ### TO DO: (apprenticeship time >:3) (for some reason different from goal, dont look into it too much)
 
 - [ ] Improve the site's CSS [KINDA DONE? (wish i could improve this further but genuinely dont know how)]
 - [ ] Add Interactivity (no idea what my apprenticeship manager meant by this) (added a visitor counter.. would be cool if it showed countries tho)
 - [x] Fix the footer (so it shows up at the bottom of the screen and not at the bottom of the text)
-- [x] Fix the visitors.txt gitignore
+- [x] Fix the visitors.txt gitignore (i just had to remove the file from cache)
 - [x] Abandon the french version of the site (i'm too lazy to translate it)
+- [ ] Listen to Kardashev (so i can add them to honorable mentions)
 - [ ] ermm
 - [x] i forgor
 
