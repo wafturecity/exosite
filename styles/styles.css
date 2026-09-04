@@ -144,7 +144,6 @@ footer {
     filter: brightness(0) saturate(100%) invert(99%) sepia(24%) saturate(0%) hue-rotate(65deg) brightness(112%) contrast(101%);
     border-radius: 1%;
     margin-left: 2%;
-    float:left;
 }
 
 div.socials {
