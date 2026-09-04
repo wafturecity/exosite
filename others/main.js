@@ -19,7 +19,6 @@ function LoadFile() {
     }
 }
 
-
 document.onload = copyrightreplace()
 
 const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
