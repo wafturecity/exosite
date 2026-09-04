@@ -34,7 +34,7 @@ This also serves to fulfill two of the 4 goals I was given.
 ### Self imposed goals
 
 - [ ] Setup a system where I can make an update to this repo and either send a command to my Exoscale instance, or have it automatically fetch the latest update/site files. This way I don't need to ssh into my instance.<br>
-^(im never gonna do ts bro(actually if you could run git in a python script this would be very easy... eh too lazy to check))
+^(im never gonna do ts bro(actually if you could run git in a python script this would be very easy... eh too lazy to check(i checked and you CAN do it, with GitPython... i'll figure that all out later tho, i still need a <a href="concrete plan.txt">concrete plan</a> on setting the automation up....)))
 
 ### TO DO: (apprenticeship time >:3) (for some reason different from goal, dont look into it too much)
 
