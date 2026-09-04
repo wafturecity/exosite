@@ -82,7 +82,7 @@ footer {
     align-content: center;
 }
 
-@media (min-height: 1255px) {
+@media (min-height: 910px) {
     .site-body{
         background: linear-gradient(#212529 93%, #343a40);
         box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
