@@ -38,7 +38,7 @@ This also serves to fulfill two of the 4 goals I was given.
 
 ### TO DO: (apprenticeship time >:3) (for some reason different from goal, dont look into it too much)
 
-- [ ] Improve the site's CSS [KINDA DONE? (wish i could improve this further but genuinely dont know how)]
+- [x] Improve the site's CSS (wish i could improve this further but genuinely dont know how)
 - [ ] Add Interactivity (no idea what my apprenticeship manager meant by this) (added a visitor counter.. would be cool if it showed countries tho)
 - [x] Fix the footer (so it shows up at the bottom of the screen and not at the bottom of the text)
 - [x] Fix the visitors.txt gitignore (i just had to remove the file from cache)
