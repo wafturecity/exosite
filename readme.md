@@ -42,7 +42,7 @@ This also serves to fulfill two of the 4 goals I was given.
 - [ ] Add Interactivity (no idea what my apprenticeship manager meant by this) (added a visitor counter.. would be cool if it showed countries tho)
 - [x] Fix the footer (so it shows up at the bottom of the screen and not at the bottom of the text)
 - [x] Fix the visitors.txt gitignore
-- [ ] Abandon the french version of the site (i'm too lazy to translate it)
+- [x] Abandon the french version of the site (i'm too lazy to translate it)
 - [ ] ermm
 - [x] i forgor
 
