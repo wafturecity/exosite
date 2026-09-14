@@ -4,6 +4,8 @@ As a new apprentice at Exoscale, I was asked to make a website from scratch, and
 
 Why? Why not, the comfier you get with HTML, CSS (and JS ig) the better, no?
 
+This website uses Bootstrap 5. A test site using Bulma can be found [here](https://filipespace.com/bulma.html)
+
 ## Can I see it?
 
 probably, if the site is up. if not then just clone the repo and open the html from there
