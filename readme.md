@@ -22,23 +22,7 @@ probably, if the site is up. if not then just clone the repo and open the html f
 - [Markdown guide](https://www.markdownguide.org)
 - [Metal Archives](https://www.metal-archives.com) (for some of the songs listed in index.html)
 
-## Other goals:
-
-This also serves to fulfill two of the 4 goals I was given.
-
-### What goals was I given?
-
-- [ ] Learning vim
-- [X] Learning Markdown Formatting
-- [X] Using VS Code to search and edit
-- [ ] Readline keybindings (i.e. on console)
-
-### Self imposed goals
-
-- [ ] Setup a system where I can make an update to this repo and either send a command to my Exoscale instance, or have it automatically fetch the latest update/site files. This way I don't need to ssh into my instance.<br>
-^(im never gonna do ts bro(actually if you could run git in a python script this would be very easy... eh too lazy to check(i checked and you CAN do it, with GitPython... i'll figure that all out later tho, i still need a [concrete plan](https://filipespace.com/concrete%20plan.html) on setting the automation up....(cant think of it rn i need a monster(NOT ANYMORE, IM ABANDONING MONSTERS.(and also the plan to set this up holy laziness))))))
-
-### TO DO: (apprenticeship time >:3) (for some reason different from goal, dont look into it too much)
+## TO DO:
 
 - [x] Improve the site's CSS (wish i could improve this further but genuinely dont know how)
 - [ ] Add Interactivity (no idea what my apprenticeship manager meant by this) (added a visitor counter.. would be cool if it showed countries tho)
@@ -46,11 +30,17 @@ This also serves to fulfill two of the 4 goals I was given.
 - [x] Fix the visitors.txt gitignore (i just had to remove the file from cache)
 - [x] Abandon the french version of the site (i'm too lazy to translate it)
 - [x] Listen to Kardashev (so i can add them to honorable mentions) (in progress, never realized how much of a banger Cellar of Ghosts truly is until you actually listen to it.)
+- [ ] Setup a system where I can make an update to this repo and either send a command to my Exoscale instance, or have it automatically fetch the latest update/site files. This way I don't need to ssh into my instance.<br>
+*^(im never gonna do ts bro (actually if you could run git in a python script this would be very easy... eh too lazy to check (i checked and you CAN do it, with GitPython... i'll figure that all out later tho, i still need a [concrete plan](https://filipespace.com/concrete%20plan.html) on setting the automation up.... (cant think of it rn i need a monster (NOT ANYMORE, IM ABANDONING MONSTERS. (and also the plan to set this up holy laziness))))))*
+- [ ] Learning vim
+- [X] Learning Markdown Formatting
+- [X] Using VS Code to search and edit
+- [ ] Readline keybindings (i.e. on console)
 - [ ] ermm
 - [x] i forgor
 
 
-
+---
 ### Archival
 
 This is what the old site looked like.... pure dogshit i know
