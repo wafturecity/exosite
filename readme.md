@@ -45,7 +45,7 @@ This also serves to fulfill two of the 4 goals I was given.
 - [x] Fix the footer (so it shows up at the bottom of the screen and not at the bottom of the text)
 - [x] Fix the visitors.txt gitignore (i just had to remove the file from cache)
 - [x] Abandon the french version of the site (i'm too lazy to translate it)
-- [ ] Listen to Kardashev (so i can add them to honorable mentions)
+- [x] Listen to Kardashev (so i can add them to honorable mentions) (in progress, never realized how much of a banger Cellar of Ghosts truly is until you actually listen to it.)
 - [ ] ermm
 - [x] i forgor
 
