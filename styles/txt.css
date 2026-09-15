@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "myFirstFont";
+    src: url("/fonts/RobotoMono-VariableFont_wght.ttf");
+}
+
+body {
+    background-color: #1c1b22;
+    color: #fbfbfe;
+    font-family: "myFirstFont";
+    font-size: medium;
+    font-size: 12px;
+}
+
+div {
+    letter-spacing: 0px;
+    line-height: 14.71px;
+    margin-top: 0px;
+    padding-top: 2.5px;
+}
